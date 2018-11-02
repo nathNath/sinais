@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# IRMAS Dataset
+
+IRMAS-TrainingData_red/
+
 # Distribution / packaging
 .Python
 build/
