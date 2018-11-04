@@ -28,6 +28,12 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+TESTES ANTIGOS/
+IRMAS-TrainingData_red/
+INST_20/
+INST_5/
+INST_1/
+.tmp.drivedownload/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -106,3 +112,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*.pkl
