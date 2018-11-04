@@ -33,7 +33,9 @@ IRMAS-TrainingData_red/
 INST_20/
 INST_5/
 INST_1/
+DB_REL/
 .tmp.drivedownload/
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
